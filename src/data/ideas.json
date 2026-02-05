@@ -1,0 +1,16 @@
+{
+  "ideas": [
+    {
+      "id": 1,
+      "title": "Meme Masala",
+      "description": "YouTube channel, spicy takes on culture and comedy",
+      "status": "growing"
+    },
+    {
+      "id": 2,
+      "title": "Chad GPT",
+      "description": "AI with unshakeable confidence",
+      "status": "seed"
+    }
+  ]
+}

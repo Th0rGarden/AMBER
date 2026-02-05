@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-mono: "SF Mono", "Monaco", "Inconsolata", "Roboto Mono", "Source Code Pro", monospace;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: var(--theme-selection-bg, rgba(245, 158, 11, 0.3));
+  color: var(--theme-selection-text, #fef3c7);
+}
+
+body {
+  background: var(--theme-bg, #0a0a0b);
+  transition: background-color 0.5s ease;
+}
