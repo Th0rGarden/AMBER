@@ -39,7 +39,7 @@ function AppContent() {
               className="font-mono text-2xl font-normal tracking-[0.3em]"
               style={{ color: theme.accent }}
             >
-              SPARQ
+              AMBER
             </h1>
             <p 
               className="mt-2 font-mono text-xs tracking-[0.15em]"
