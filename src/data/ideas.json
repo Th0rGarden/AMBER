@@ -11,6 +11,12 @@
       "title": "Chad GPT",
       "description": "AI with unshakeable confidence",
       "status": "seed"
+    },
+    {
+      "id": 3,
+      "title": "Banana sleeve",
+      "description": "",
+      "status": "seed"
     }
   ]
 }
